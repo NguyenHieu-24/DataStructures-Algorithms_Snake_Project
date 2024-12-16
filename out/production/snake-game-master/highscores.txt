@@ -1,0 +1,5 @@
+Hiệu,6,Easy
+Hiu,1,Easy
+hiuu,1,Medium
+hieu,1,Easy
+hh,0,Medium
